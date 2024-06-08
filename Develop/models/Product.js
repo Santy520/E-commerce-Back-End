@@ -16,13 +16,13 @@ id: {
       autoIncrement: true,
 },
 product_name:{
-  type: dataTypes.STRING
+  type: DataTypes.STRING
 },
 price: {
-  type: dataTypes.DECIMAL(10,2)
+  type: DataTypes.DECIMAL(10,2)
 },
 stock:{
-  type: dataTypes.INTERGER,
+  type: DataTypes.INTEGER,
   defaultValue: 10
 },
 category_id:{type: DataTypes.INTEGER,
