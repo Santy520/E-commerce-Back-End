@@ -15,7 +15,7 @@
   * [Tests](#tests)
   * [Questions](#questions)
   * [Video Links](#video-links)
-  * [Screen Shot](#image)
+  * [Image](#image)
   
   # Installation
   
